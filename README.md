@@ -1,2 +1,1 @@
-# ppi-ifrn-nc
-repositório para a disciplina "programação para a internet".
+# Progama-o_internet_3v
